@@ -1,9 +1,0 @@
-name: CommandBlocker
-version: 1.0
-description: Command Blocker
-authors: [Telesphoreo]
-main: com.fusenetworks.fuse.Fuse
-commands:
-  update:
-    description: Update Command Blocker
-    usage: /<command>
